@@ -2,9 +2,9 @@
 
 Docker image running the [netcat](https://pkgs.alpinelinux.org/package/edge/main/x86/netcat-openbsd) networking utility.
 
-GitHub repository: [MattSyms/netcat-docker](https://github.com/MattSyms/netcat-docker).
-
 Docker Hub repository: [mattsyms/netcat](https://hub.docker.com/r/mattsyms/netcat).
+
+GitHub repository: [MattSyms/netcat-docker](https://github.com/MattSyms/netcat-docker).
 
 ## Usage
 
